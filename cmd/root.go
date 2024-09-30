@@ -13,7 +13,7 @@ import (
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "gopic",
-	Short: "A brief description of your application",
+	Short: "picPool tool",
 	Long:  `gopic is an opensource picPool tool`,
 }
 
